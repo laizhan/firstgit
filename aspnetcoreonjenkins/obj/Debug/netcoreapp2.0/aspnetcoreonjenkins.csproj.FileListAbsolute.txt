@@ -1,0 +1,11 @@
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\bin\Debug\netcoreapp2.0\aspnetcoreonjenkins.deps.json
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\bin\Debug\netcoreapp2.0\aspnetcoreonjenkins.runtimeconfig.json
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\bin\Debug\netcoreapp2.0\aspnetcoreonjenkins.runtimeconfig.dev.json
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\bin\Debug\netcoreapp2.0\aspnetcoreonjenkins.dll
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\bin\Debug\netcoreapp2.0\aspnetcoreonjenkins.pdb
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.csprojAssemblyReference.cache
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.csproj.CoreCompileInputs.cache
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.AssemblyInfoInputs.cache
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.AssemblyInfo.cs
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.dll
+C:\Users\laizh\Desktop\GitRespository\firstgit\aspnetcoreonjenkins\obj\Debug\netcoreapp2.0\aspnetcoreonjenkins.pdb
